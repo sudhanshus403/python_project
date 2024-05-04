@@ -5,6 +5,29 @@ Created on Sat Mar  30 21:54:11 2024
 
 @author: sudhanshu
 """
+'''The Patient Helper Device is designed to assist
+hospital staff in monitoring and caring for patients.
+This device provides real-time monitoring of vital signs
+such as heart rate, blood pressure, and temperature.
+It also includes features such as:
+
+1.Continuous Monitoring: The device continuously monitors 
+the patient's vital signs, providing real-time data to hospital staff.
+2.Alert System: It is equipped with an alert system to immediately
+notify hospital staff in case of any irregularities or emergencies.
+3.Remote Access: Hospital staff can access patient data remotely,
+allowing for constant supervision and quick response to any changes
+in the patient's condition.
+4.Data Storage: The device stores patient data securely,allowing for
+easy access to historical data and analysis of trends over time.
+5.User-Friendly Interface: The device features a user-friendly
+interface that makes it easy for hospital staff to operate and
+interpret the data.
+6.Integration: It can be integrated with existing hospital systems,
+ensuring seamless communication and data sharing across departments.
+The Patient Helper Device aims to improve patient care by providing
+hospital staff with the necessary tools to monitor patients effectively
+and respond promptly to any changes in their condition.'''
 
 class HospitalHelper:
     def __init__(self):
